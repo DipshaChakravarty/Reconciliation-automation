@@ -1,2 +1,2 @@
 # Reconciliation-automation
-This project has the automation script to auto detect the excel sheet data , perform ui testing by clicking and generating report , it also validate the system generated report is correct or not.
+This complex project includes an automation script that auto-detects data from Excel sheets, performs UI testing by simulating clicks, and generates reports. It also validates that the system-generated reports comply with the applied rules.
