@@ -115,7 +115,7 @@ public class TestBase {
 
 			// System.out.println("Where is the link?");
 		//	System.out.println("about to load the poroperty --> " + url);
-			driver.get("http://ec2-3-111-148-158.ap-south-1.compute.amazonaws.com:90/");
+			driver.get("http://company_url");
 
 		} catch (Exception e) {
 			System.out.println("exception in loading --> " + e);
