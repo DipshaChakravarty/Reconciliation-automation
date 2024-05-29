@@ -115,7 +115,11 @@ public class TestBase {
 
 			// System.out.println("Where is the link?");
 		//	System.out.println("about to load the poroperty --> " + url);
-			driver.get("https://company_url");
+<<<<<<< HEAD
+			driver.get("companyurl");
+=======
+			driver.get("http://company_url");
+>>>>>>> 80233b0eb2e111ca39ceba0f1baae5ecbef77405
 
 		} catch (Exception e) {
 			System.out.println("exception in loading --> " + e);
